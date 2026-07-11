@@ -1,0 +1,5 @@
+path: /kaggle/input/datasets/gkothyari1/pothole-kaggle-closeup-dataset
+train: train/images
+val: valid/images
+nc: 1
+names: ['pothole']
